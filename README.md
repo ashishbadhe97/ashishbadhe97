@@ -1,6 +1,6 @@
 <img alt="coder gif" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1ojV4epPGRxhZE26dVI4pQ.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-badhe&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-badhe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbadhe97&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-badhe" /> </p>
 
 <h1 align="center">Hi 👋, &nbsp; I'm Ashish Badhe</h1>
 
